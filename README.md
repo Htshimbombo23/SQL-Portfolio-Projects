@@ -1,5 +1,5 @@
-# SQL-Portfolio-Projects
+# Videogame-Sales-Project
 
-This repository will hold all my SQL portfolio projects. 
+This repository holds my portfolio project exploring 2024 videogame sales data and some data cleaning queries as well.
 
 I appreciate you taking the time to take a look at my work.
